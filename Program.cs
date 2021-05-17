@@ -50,9 +50,7 @@ namespace Abdullah_Test
             apply leave = new apply();
             leave.paywow();
 
-            //o
-            abu ab = new abu();
-            ab ++;
+            
             //------------------------------
             Console.ReadKey();
 
