@@ -30,12 +30,6 @@ namespace Abdullah_Test
             Console.WriteLine("Apply in PayWow for Leave..");
         }
 
-        public static  apply operator ++( apply c)  
-            {
-          
-        }
-    
-
-}
+     }
    
 }
